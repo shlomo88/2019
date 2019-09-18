@@ -2,7 +2,7 @@
 
 ## The first ever Zimbabwe Capture the Flag (CTF) contest for Cybersecurity Month 2019
 
-For the first time ever, the [Harare Institute of Technology](https://www.hit.ac.zw), the [Ministry of Information and Communication Technology, Postal and Courier Services](http://www.ictministry.gov.zw/) (MICTPCS), [TelOne](https://www.telone.co.zw/) and [ZICT](http://zict.org.zw/), the ICT Division of the [Zimbabwe Institution of Engineers](http://zie.org.zw/) (ZIE) will be organizing this exciting event that has taken the cyberspace domain by storm! 
+For the first time ever, the [Harare Institute of Technology](https://www.hit.ac.zw), the [Ministry of Information and Communication Technology, Postal and Courier Services](http://www.ictministry.gov.zw/) (MICTPCS), [TelOne Zimbabwe](https://www.telone.co.zw/) and [ZICT](http://zict.org.zw/), the ICT Division of the [Zimbabwe Institution of Engineers](http://zie.org.zw/) (ZIE) will be organizing this exciting event that has taken the cyberspace domain by storm! 
 
 ### What is a CTF??
 
