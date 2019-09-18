@@ -4,7 +4,7 @@
 
 For the first time ever, the [Harare Institute of Technology](https://www.hit.ac.zw) and the [Ministry of Information and Communication Technology, Postal and Courier Services](http://www.ictministry.gov.zw/) (MICTPCS) will be organizing this exciting event that has taken the cyberspace domain by storm! 
 
-###What is a CTF??
+### What is a CTF??
 
 **CTF** is short for _Capture The Flag_ and it is a kind of cyber security contest that challenges participants to solve a variety of cyber-related tasks ranging from analyzing captured network data for secret information, to hacking your way into a server to steal data. In these challenges, the contestant is usually asked to find a specific piece of text or a file that may be hidden on the server or behind a webpage. That hidden data or file is called the flag, hence the name, CTF!
 
