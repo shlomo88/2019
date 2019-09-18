@@ -16,7 +16,7 @@ The beauty of CTFs is that they give _student hackers_, security professionals a
 
 ### Do we have to register to participate?
 
-Yes you will have to register online via [this link] (https://github.com). Please note that the challenges will only be availed to registered teams and only registered teams will be up to win prizes.
+Yes you will have to register online via this link (https://forms.gle/cPVf8oWbD5ymSEN18). Please note that the challenges will only be availed to registered teams and only registered teams will be up to win prizes.
 
 ### Oh, so there are prizes to be won?
 
@@ -43,7 +43,7 @@ The CTF model we are using has two phases:
 
 ## IMPORTANT DATES
 ```
-1. Team Registration - 18 September 2019 - 25 September 2019
+1. Team Registration - 18 September 2019 - 24 September 2019
 2. Opening of Challenges_ - 25 September 2019
 3. Closing of Challenges - 01 October 2019
 4. Announcement of Finalists - 01 October 2019
