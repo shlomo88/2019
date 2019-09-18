@@ -2,7 +2,7 @@
 
 ## The first ever Zimbabwe Capture the Flag (CTF) contest for Cybersecurity Month 2019
 
-For the first time ever, the [Harare Institute of Technology](https://www.hit.ac.zw) and the [Ministry of Information and Communication Technology, Postal and Courier Services](http://www.ictministry.gov.zw/) (MICTPCS) will be organizing this exciting event that has taken the cyberspace domain by storm! 
+For the first time ever, the [Harare Institute of Technology](https://www.hit.ac.zw), the [Ministry of Information and Communication Technology, Postal and Courier Services](http://www.ictministry.gov.zw/) (MICTPCS) and [ZICT](http://zict.org.zw/), the ICT Division of the [Zimbabwe Institution of Engineers](http://zie.org.zw/) (ZIE) will be organizing this exciting event that has taken the cyberspace domain by storm! 
 
 ### What is a CTF??
 
@@ -59,5 +59,19 @@ For more information please get in touch via [this IRC link](https://webchat.fre
 - `Channel`: #zimctf2019
 
 we will respond as soon as we possibly can.
+
+# GENERAL TERMS & CONDITIONS
+
+Please read these Terms and Conditions carefully prior to registration.
+
+- No DoS/automated scans/large amounts of traffic on the hosting servers.
+- Do not share flags or solutions with other teams. We will not tolerate flag sharing.
+- Participants shall provide correct & truthful information in registration and team creation.
+- Participants shall keep their contact information accurate and up-to-date.
+- The participants shall ensure the code they use is free from viruses or malware.
+- The participant shall not use this contest to do anything unlawful, misleading, malicious or discriminatory.
+- If any participant is found to have violated the term & conditions of the contest, the coordinating Team has the right, to disqualify the participant without prior notice.
+- The Coordinating Team has all the rights reserved, in case of any conflict, the decision of the Coordinating Team shall be final.
+- The Coordinating Team reserves the right to change Terms and Conditions.
 
 
