@@ -58,7 +58,7 @@ For more information please get in touch via [this IRC link](https://webchat.fre
 - `Password`: ZimCTF2019
 - `Channel`: #zimctf2019
 
-or you can email us on	[zimbabwe.ctf@gmail.com](zimbabwe.ctf@gmail.com), we will respond as soon as we possibly can.
+or you can email us on	`zimbabwe[dot]ctf[at]gmail[dot]com`, we will respond as soon as we possibly can.
 
 # GENERAL TERMS & CONDITIONS
 
