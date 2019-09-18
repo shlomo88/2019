@@ -1,39 +1,63 @@
 # Zimbabwe CTF 2019
 
-## The first ever Zimbabwe Capture the Flag (CTF) contest organized by the Harare Institute of Technology and the Ministry of ICTPCS for Cybersecurity Month 2019
+## The first ever Zimbabwe Capture the Flag (CTF) contest for Cybersecurity Month 2019
 
-You can use the [editor on GitHub](https://github.com/zim-ctf/2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For the first time ever, the [Harare Institute of Technology] (https://www.hit.ac.zw) and the [Ministry of Information and Communication Technology, Postal and Courier Services] (http://www.ictministry.gov.zw/) (MICTPCS) will be organizing this exciting event that has taken the cyberspace domain by storm! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###What is a CTF??
 
-### Markdown
+**CTF** is short for _Capture The Flag_ and it is a kind of cyber security contest that challenges participants to solve a variety of cyber-related tasks ranging from analyzing captured network data for secret information, to hacking your way into a server to steal data. In these challenges, the contestant is usually asked to find a specific piece of text or a file that may be hidden on the server or behind a webpage. That hidden data or file is called the flag, hence the name, CTF!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Who is the CTF open to?
 
-```markdown
-Syntax highlighted code block
+It is open to **all** people who work in or have an interest in the field of cybersecurity, regardless of their years of experience.
 
-# Zimbabwe CTF 2019
-## Header 2
-### Header 3
+The beauty of CTFs is that they give _student hackers_, security professionals and enthusiasts as well as hobbyists an opportunity to try out a variety of hacking challenges and basically test their skill level. As most people know, cybersecurity is a domain that affects everyone and the more you have a practical understanding of how attacks can be performed, the easier it is for you to help other people understand how real the threat is.
 
-- Bulleted
-- List
+### Do we have to register to participate?
 
-1. Numbered
-2. List
+Yes you will have to register online via [this link] (https://github.com). Please note that the challenges will only be availed to registered teams and only registered teams will be up to win prizes.
 
-**Bold** and _Italic_ and `Code` text
+### Oh, so there are prizes to be won?
 
-[Link](url) and ![Image](src)
+Yes there are! The winning team will be awarded a prize and they will also have the bragging rights as the winners of the **first ever** Zim CTF Contest.
+
+### Can we sign up as a team?
+
+Yes, you can. The sizes of the teams that can attempt the challenge can range from One person to a maximum of Four individuals per team. 
+
+### How will the Finalists and Winners be determined?
+
+There will be a set of challenges that will need to be completed as is the standard model with CTFs. In this case, it will be time-based, so the first team to complete the challenge, submit a flag and the accompanying report of how they completed the challenge will be the victor.
+
+### We will also have to submit a report?
+
+Yes, the coordinators of the CTF will need to get a report from you on the steps you took in order to overcome the challenges. A standard template will be shared with registered teams. If your team would prefer to submit the report in video format, we can also accommodate that as well.
+
+### Where will the CTF be hosted?
+
+The CTF model we are using has two phases:
+- `Phase 1`: This will involve the Entry Round and Elimination Round challenges which will all be done by teams remotely and online.
+- `Phase 2`: This will be onsite in Harare where the Top Five teams will battle it out to see who becomes the winner.
+
+```
+## IMPORTANT DATES
+1. _Team Registration_ - 18 September 2019 - 25 September 2019
+2. _Opening of Challenges_ - 25 September 2019
+3. _Closing of Challenges_ - 01 October 2019
+4. _Announcement of Finalists_ - 01 October 2019
+5. _CTF Finals_ - 05 October 2019
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zim-ctf/2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+For more information please get in touch via [this IRC link] (https://webchat.freenode.net/) with the following info:
+- `Nick`: _This is entirely up to you_
+- `Password`: ZimCTF2019
+- `Channel`: #zimctf2019
 
-### Support or Contact
+we will respond as soon as we possibly can.
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
