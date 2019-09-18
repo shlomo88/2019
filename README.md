@@ -2,7 +2,7 @@
 
 ## The first ever Zimbabwe Capture the Flag (CTF) contest for Cybersecurity Month 2019
 
-For the first time ever, the [Harare Institute of Technology] (https://www.hit.ac.zw) and the [Ministry of Information and Communication Technology, Postal and Courier Services] (http://www.ictministry.gov.zw/) (MICTPCS) will be organizing this exciting event that has taken the cyberspace domain by storm! 
+For the first time ever, the [Harare Institute of Technology](https://www.hit.ac.zw) and the [Ministry of Information and Communication Technology, Postal and Courier Services](http://www.ictministry.gov.zw/) (MICTPCS) will be organizing this exciting event that has taken the cyberspace domain by storm! 
 
 ###What is a CTF??
 
@@ -16,7 +16,7 @@ The beauty of CTFs is that they give _student hackers_, security professionals a
 
 ### Do we have to register to participate?
 
-Yes you will have to register online via this link (https://forms.gle/cPVf8oWbD5ymSEN18). Please note that the challenges will only be availed to registered teams and only registered teams will be up to win prizes.
+Yes you will have to register online via [this link](https://forms.gle/cPVf8oWbD5ymSEN18). Please note that the challenges will only be availed to registered teams and only registered teams will be up to win prizes.
 
 ### Oh, so there are prizes to be won?
 
@@ -53,7 +53,7 @@ The CTF model we are using has two phases:
 
 
 
-For more information please get in touch via [this IRC link] (https://webchat.freenode.net/) with the following info:
+For more information please get in touch via [this IRC link](https://webchat.freenode.net/) with the following info:
 - `Nick`: _This is entirely up to you_
 - `Password`: ZimCTF2019
 - `Channel`: #zimctf2019
