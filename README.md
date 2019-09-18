@@ -42,13 +42,13 @@ The CTF model we are using has two phases:
 
 
 ## IMPORTANT DATES
-```
-1. Team Registration - 18 September 2019 - 24 September 2019
-2. Opening of Challenges_ - 25 September 2019
-3. Closing of Challenges - 01 October 2019
-4. Announcement of Finalists - 01 October 2019
-5. CTF Finals - 05 October 2019
-```
+
+### No. | Event | Date 
+1. | Team Registration | 18 September 2019 - 24 September 2019
+2. | Opening of Challenges | 25 September 2019
+3. | Closing of Challenges | 01 October 2019
+4. | Announcement of Finalists | 01 October 2019
+5. | CTF Finals | 05 October 2019
 
 
 
