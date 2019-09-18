@@ -40,24 +40,24 @@ The CTF model we are using has two phases:
 - `Phase 1`: This will involve the Entry Round and Elimination Round challenges which will all be done by teams remotely and online.
 - `Phase 2`: This will be onsite in Harare where the Top Five teams will battle it out to see who becomes the winner.
 
-```
+
 ## IMPORTANT DATES
-1. _Team Registration_ - 18 September 2019 - 25 September 2019
-2. _Opening of Challenges_ - 25 September 2019
-3. _Closing of Challenges_ - 01 October 2019
-4. _Announcement of Finalists_ - 01 October 2019
-5. _CTF Finals_ - 05 October 2019
+```
+1. Team Registration - 18 September 2019 - 25 September 2019
+2. Opening of Challenges_ - 25 September 2019
+3. Closing of Challenges - 01 October 2019
+4. Announcement of Finalists - 01 October 2019
+5. CTF Finals - 05 October 2019
 ```
 
 
 
-```
+
 For more information please get in touch via [this IRC link] (https://webchat.freenode.net/) with the following info:
 - `Nick`: _This is entirely up to you_
 - `Password`: ZimCTF2019
 - `Channel`: #zimctf2019
 
 we will respond as soon as we possibly can.
-```
 
 
